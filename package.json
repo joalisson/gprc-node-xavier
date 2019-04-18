@@ -1,0 +1,24 @@
+{
+  "name": "grpc-node-xavier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joalisson/grpc-node-xavier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joalisson/grpc-node-xavier/issues"
+  },
+  "homepage": "https://github.com/joalisson/grpc-node-xavier#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.0",
+    "grpc": "^1.20.0",
+    "uuid": "^3.3.2"
+  }
+}
